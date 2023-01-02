@@ -1,4 +1,4 @@
-# -4-Variables-use-input-function-python
+# 4-Variables-use-input-function-python
 
 name = input("name: ")
 
